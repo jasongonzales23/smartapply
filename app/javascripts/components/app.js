@@ -1,7 +1,7 @@
 import React from "react";
-import Greeting from "./greeting";
+import JobForm from "./job-form";
 
 React.render(
-    <Greeting name="World"/>,
+    <JobForm/>,
       document.body
 );
