@@ -1,0 +1,19 @@
+{
+  "name": "smartapply",
+  "version": "1.0.0",
+  "description": "job application helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "jobz"
+  ],
+  "author": "Jason Gonzales",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "webpack": "^1.8.11"
+  }
+}
